@@ -1,2 +1,2 @@
-# arkanoid
+# Arkanoid
 arkanoid using godot
